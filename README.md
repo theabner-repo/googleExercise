@@ -2,11 +2,11 @@
 
 La entrevista consistió en analizar y llegar a una solucón para el siguiente problema
 
-# Descripción
+## Descripción
 
 Desarrollar un algoritmo que dados 4 números aleatorios (de entre 1 y 10, cada uno) determine si es posible obtener el número 24 utilizando solo sumas y multiplicaciones
 
-# Ejemplos
+**Ejemplos**
 
 l = [1, 2, 3, 4]
 resultado => true
